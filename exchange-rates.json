@@ -136,5 +136,227 @@
     "name": "미국 달러",
     "price": "1,428.4",
     "symbol": "$"
+  },
+  {
+    "unit": "ZAR",
+    "name": "남아프리카 랜드",
+    "price": "0",
+    "symbol": "R"
+  },
+  {
+    "unit": "NPR",
+    "name": "네팔 루피",
+    "price": "0",
+    "symbol": "Rs"
+  },
+  {
+    "unit": "TWD",
+    "name": "대만 달러",
+    "price": "0",
+    "symbol": "NT$"
+  },
+  {
+    "unit": "RUB",
+    "name": "러시아 루블",
+    "price": "0",
+    "symbol": "₽"
+  },
+  {
+    "unit": "RON",
+    "name": "루마니아 레우",
+    "price": "0",
+    "symbol": "lei"
+  },
+  {
+    "unit": "LYD",
+    "name": "리비아 디나르",
+    "price": "0",
+    "symbol": "LD"
+  },
+  {
+    "unit": "MOP",
+    "name": "마카오 파타카",
+    "price": "0",
+    "symbol": "MOP$"
+  },
+  {
+    "unit": "MXN",
+    "name": "멕시코 페소",
+    "price": "0",
+    "symbol": "Mex$"
+  },
+  {
+    "unit": "MNT",
+    "name": "몽골 투그릭",
+    "price": "0",
+    "symbol": "₮"
+  },
+  {
+    "unit": "MMK",
+    "name": "미얀마 짯",
+    "price": "0",
+    "symbol": "K"
+  },
+  {
+    "unit": "BDT",
+    "name": "방글라데시 타카",
+    "price": "0",
+    "symbol": "৳"
+  },
+  {
+    "unit": "VND",
+    "name": "베트남 동",
+    "price": "0",
+    "symbol": "₫"
+  },
+  {
+    "unit": "BRL",
+    "name": "브라질 헤알",
+    "price": "0",
+    "symbol": "R$"
+  },
+  {
+    "unit": "LKR",
+    "name": "스리랑카 루피",
+    "price": "0",
+    "symbol": "Rs"
+  },
+  {
+    "unit": "DZD",
+    "name": "알제리 디나르",
+    "price": "0",
+    "symbol": "DA"
+  },
+  {
+    "unit": "ETB",
+    "name": "에티오피아 비르",
+    "price": "0",
+    "symbol": "Br"
+  },
+  {
+    "unit": "OMR",
+    "name": "오만 리알",
+    "price": "0",
+    "symbol": "OMR"
+  },
+  {
+    "unit": "JOD",
+    "name": "요르단 디나르",
+    "price": "0",
+    "symbol": "JD"
+  },
+  {
+    "unit": "UZS",
+    "name": "우즈베키스탄 숨",
+    "price": "0",
+    "symbol": "UZS"
+  },
+  {
+    "unit": "ILS",
+    "name": "이스라엘 셰켈",
+    "price": "0",
+    "symbol": "₪"
+  },
+  {
+    "unit": "EGP",
+    "name": "이집트 파운드",
+    "price": "0",
+    "symbol": "E£"
+  },
+  {
+    "unit": "INR",
+    "name": "인도 루피",
+    "price": "0",
+    "symbol": "₹"
+  },
+  {
+    "unit": "CNY",
+    "name": "중국 위안",
+    "price": "0",
+    "symbol": "¥"
+  },
+  {
+    "unit": "CZK",
+    "name": "체코 코루나",
+    "price": "0",
+    "symbol": "Kč"
+  },
+  {
+    "unit": "CLP",
+    "name": "칠레 페소",
+    "price": "0",
+    "symbol": "CLP$"
+  },
+  {
+    "unit": "KZT",
+    "name": "카자흐스탄 텡게",
+    "price": "0",
+    "symbol": "₸"
+  },
+  {
+    "unit": "QAR",
+    "name": "카타르 리알",
+    "price": "0",
+    "symbol": "QR"
+  },
+  {
+    "unit": "KHR",
+    "name": "캄보디아 리엘",
+    "price": "0",
+    "symbol": "៛"
+  },
+  {
+    "unit": "KES",
+    "name": "케냐 실링",
+    "price": "0",
+    "symbol": "KSh"
+  },
+  {
+    "unit": "COP",
+    "name": "콜롬비아 페소",
+    "price": "0",
+    "symbol": "COL$"
+  },
+  {
+    "unit": "TZS",
+    "name": "탄자니아 실링",
+    "price": "0",
+    "symbol": "TSh"
+  },
+  {
+    "unit": "TRY",
+    "name": "튀르키예 리라",
+    "price": "0",
+    "symbol": "₺"
+  },
+  {
+    "unit": "PKR",
+    "name": "파키스탄 루피",
+    "price": "0",
+    "symbol": "Rs"
+  },
+  {
+    "unit": "PLN",
+    "name": "폴란드 즐로티",
+    "price": "0",
+    "symbol": "zł"
+  },
+  {
+    "unit": "FJD",
+    "name": "피지 달러",
+    "price": "0",
+    "symbol": "FJ$"
+  },
+  {
+    "unit": "PHP",
+    "name": "필리핀 페소",
+    "price": "0",
+    "symbol": "₱"
+  },
+  {
+    "unit": "HUF",
+    "name": "헝가리 포린트",
+    "price": "0",
+    "symbol": "Ft"
   }
 ]
