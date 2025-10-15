@@ -1,0 +1,140 @@
+[
+  {
+    "unit": "AED",
+    "name": "아랍에미리트 디르함",
+    "price": "388.96",
+    "symbol": "د.إ"
+  },
+  {
+    "unit": "AUD",
+    "name": "호주 달러",
+    "price": "927.32",
+    "symbol": "A$"
+  },
+  {
+    "unit": "BHD",
+    "name": "바레인 디나르",
+    "price": "3,788.96",
+    "symbol": "د.ب"
+  },
+  {
+    "unit": "BND",
+    "name": "브루나이 달러",
+    "price": "1,100.17",
+    "symbol": "B$"
+  },
+  {
+    "unit": "CAD",
+    "name": "캐나다 달러",
+    "price": "1,017.31",
+    "symbol": "C$"
+  },
+  {
+    "unit": "CHF",
+    "name": "스위스 프랑",
+    "price": "1,782.94",
+    "symbol": "Fr"
+  },
+  {
+    "unit": "CNH",
+    "name": "위안화",
+    "price": "199.87",
+    "symbol": "¥"
+  },
+  {
+    "unit": "DKK",
+    "name": "덴마아크 크로네",
+    "price": "221.94",
+    "symbol": "kr"
+  },
+  {
+    "unit": "EUR",
+    "name": "유로",
+    "price": "1,657.52",
+    "symbol": "€"
+  },
+  {
+    "unit": "GBP",
+    "name": "영국 파운드",
+    "price": "1,902.63",
+    "symbol": "£"
+  },
+  {
+    "unit": "HKD",
+    "name": "홍콩 달러",
+    "price": "183.74",
+    "symbol": "HK$"
+  },
+  {
+    "unit": "IDR(100)",
+    "name": "인도네시아 루피아",
+    "price": "8.62",
+    "symbol": "Rp"
+  },
+  {
+    "unit": "JPY(100)",
+    "name": "일본 옌",
+    "price": "940.88",
+    "symbol": "¥"
+  },
+  {
+    "unit": "KRW",
+    "name": "한국 원",
+    "price": "1",
+    "symbol": "₩"
+  },
+  {
+    "unit": "KWD",
+    "name": "쿠웨이트 디나르",
+    "price": "4,654.89",
+    "symbol": "د.ك"
+  },
+  {
+    "unit": "MYR",
+    "name": "말레이지아 링기트",
+    "price": "337.68",
+    "symbol": "RM"
+  },
+  {
+    "unit": "NOK",
+    "name": "노르웨이 크로네",
+    "price": "140.62",
+    "symbol": "kr"
+  },
+  {
+    "unit": "NZD",
+    "name": "뉴질랜드 달러",
+    "price": "816.26",
+    "symbol": "NZ$"
+  },
+  {
+    "unit": "SAR",
+    "name": "사우디 리얄",
+    "price": "380.89",
+    "symbol": "ر.س"
+  },
+  {
+    "unit": "SEK",
+    "name": "스웨덴 크로나",
+    "price": "149.72",
+    "symbol": "kr"
+  },
+  {
+    "unit": "SGD",
+    "name": "싱가포르 달러",
+    "price": "1,100.17",
+    "symbol": "S$"
+  },
+  {
+    "unit": "THB",
+    "name": "태국 바트",
+    "price": "43.74",
+    "symbol": "฿"
+  },
+  {
+    "unit": "USD",
+    "name": "미국 달러",
+    "price": "1,428.4",
+    "symbol": "$"
+  }
+]
