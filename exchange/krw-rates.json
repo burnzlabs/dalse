@@ -4,419 +4,539 @@
     "name": "아랍에미리트 디르함",
     "englishName": "UAE Dirham",
     "price": "388.96",
-    "symbol": "د.إ"
+    "symbol": "د.إ",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "AUD",
     "name": "호주 달러",
     "englishName": "Australian Dollar",
     "price": "927.32",
-    "symbol": "A$"
+    "symbol": "A$",
+    "symbolBeforeAmount": true,
+    "useDecimal": true
   },
   {
     "unit": "BHD",
     "name": "바레인 디나르",
     "englishName": "Bahraini Dinar",
     "price": "3,788.96",
-    "symbol": "BD"
+    "symbol": "BD",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "BND",
     "name": "브루나이 달러",
     "englishName": "Brunei Dollar",
     "price": "1,100.17",
-    "symbol": "B$"
+    "symbol": "B$",
+    "symbolBeforeAmount": true,
+    "useDecimal": true
   },
   {
     "unit": "CAD",
     "name": "캐나다 달러",
     "englishName": "Canadian Dollar",
     "price": "1,017.31",
-    "symbol": "C$"
+    "symbol": "C$",
+    "symbolBeforeAmount": true,
+    "useDecimal": true
   },
   {
     "unit": "CHF",
     "name": "스위스 프랑",
     "englishName": "Swiss Franc",
     "price": "1,782.94",
-    "symbol": "Fr"
+    "symbol": "Fr",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "CNH",
     "name": "위안화",
     "englishName": "Chinese Yuan",
     "price": "199.87",
-    "symbol": "¥"
+    "symbol": "¥",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "DKK",
     "name": "덴마크 크로네",
     "englishName": "Danish Krone",
     "price": "221.94",
-    "symbol": "kr"
+    "symbol": "kr",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "EUR",
     "name": "유로",
     "englishName": "Euro",
     "price": "1,657.52",
-    "symbol": "€"
+    "symbol": "€",
+    "symbolBeforeAmount": true,
+    "useDecimal": true
   },
   {
     "unit": "GBP",
     "name": "영국 파운드",
     "englishName": "British Pound",
     "price": "1,902.63",
-    "symbol": "£"
+    "symbol": "£",
+    "symbolBeforeAmount": true,
+    "useDecimal": true
   },
   {
     "unit": "HKD",
     "name": "홍콩 달러",
     "englishName": "Hong Kong Dollar",
     "price": "183.74",
-    "symbol": "HK$"
+    "symbol": "HK$",
+    "symbolBeforeAmount": true,
+    "useDecimal": true
   },
   {
     "unit": "IDR(100)",
     "name": "인도네시아 루피아",
     "englishName": "Indonesian Rupiah",
     "price": "8.62",
-    "symbol": "Rp"
+    "symbol": "Rp",
+    "symbolBeforeAmount": false,
+    "useDecimal": false
   },
   {
     "unit": "JPY(100)",
     "name": "일본 엔",
     "englishName": "Japanese Yen",
     "price": "940.88",
-    "symbol": "¥"
+    "symbol": "¥",
+    "symbolBeforeAmount": false,
+    "useDecimal": false
   },
   {
     "unit": "KRW",
     "name": "한국 원",
     "englishName": "South Korean Won",
     "price": "1",
-    "symbol": "₩"
+    "symbol": "₩",
+    "symbolBeforeAmount": false,
+    "useDecimal": false
   },
   {
     "unit": "KWD",
     "name": "쿠웨이트 디나르",
     "englishName": "Kuwaiti Dinar",
     "price": "4,654.89",
-    "symbol": "KD"
+    "symbol": "KD",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "MYR",
     "name": "말레이시아 링깃",
     "englishName": "Malaysian Ringgit",
     "price": "337.68",
-    "symbol": "RM"
+    "symbol": "RM",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "NOK",
     "name": "노르웨이 크로네",
     "englishName": "Norwegian Krone",
     "price": "140.62",
-    "symbol": "kr"
+    "symbol": "kr",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "NZD",
     "name": "뉴질랜드 달러",
     "englishName": "New Zealand Dollar",
     "price": "816.26",
-    "symbol": "NZ$"
+    "symbol": "NZ$",
+    "symbolBeforeAmount": true,
+    "useDecimal": true
   },
   {
     "unit": "SAR",
     "name": "사우디 리얄",
     "englishName": "Saudi Riyal",
     "price": "380.89",
-    "symbol": "ر.س"
+    "symbol": "ر.س",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "SEK",
     "name": "스웨덴 크로나",
     "englishName": "Swedish Krona",
     "price": "149.72",
-    "symbol": "kr"
+    "symbol": "kr",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "SGD",
     "name": "싱가포르 달러",
     "englishName": "Singapore Dollar",
     "price": "1,100.17",
-    "symbol": "S$"
+    "symbol": "S$",
+    "symbolBeforeAmount": true,
+    "useDecimal": true
   },
   {
     "unit": "THB",
     "name": "태국 바트",
     "englishName": "Thai Baht",
     "price": "43.74",
-    "symbol": "฿"
+    "symbol": "฿",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "USD",
     "name": "미국 달러",
     "englishName": "US Dollar",
     "price": "1,428.4",
-    "symbol": "$"
+    "symbol": "$",
+    "symbolBeforeAmount": true,
+    "useDecimal": true
   },
   {
     "unit": "ZAR",
     "name": "남아프리카 랜드",
     "englishName": "South African Rand",
     "price": "0",
-    "symbol": "R"
+    "symbol": "R",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "NPR",
     "name": "네팔 루피",
     "englishName": "Nepalese Rupee",
     "price": "0",
-    "symbol": "Rs"
+    "symbol": "Rs",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "TWD",
     "name": "대만 달러",
     "englishName": "Taiwan Dollar",
     "price": "0",
-    "symbol": "NT$"
+    "symbol": "NT$",
+    "symbolBeforeAmount": false,
+    "useDecimal": false
   },
   {
     "unit": "RUB",
     "name": "러시아 루블",
     "englishName": "Russian Ruble",
     "price": "0",
-    "symbol": "₽"
+    "symbol": "₽",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "RON",
     "name": "루마니아 레우",
     "englishName": "Romanian Leu",
     "price": "0",
-    "symbol": "lei"
+    "symbol": "lei",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "LYD",
     "name": "리비아 디나르",
     "englishName": "Libyan Dinar",
     "price": "0",
-    "symbol": "LD"
+    "symbol": "LD",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "MOP",
     "name": "마카오 파타카",
     "englishName": "Macanese Pataca",
     "price": "0",
-    "symbol": "MOP$"
+    "symbol": "MOP$",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "MXN",
     "name": "멕시코 페소",
     "englishName": "Mexican Peso",
     "price": "0",
-    "symbol": "Mex$"
+    "symbol": "Mex$",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "MNT",
     "name": "몽골 투그릭",
     "englishName": "Mongolian Tugrik",
     "price": "0",
-    "symbol": "₮"
+    "symbol": "₮",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "MMK",
     "name": "미얀마 짯",
     "englishName": "Myanmar Kyat",
     "price": "0",
-    "symbol": "K"
+    "symbol": "K",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "BDT",
     "name": "방글라데시 타카",
     "englishName": "Bangladeshi Taka",
     "price": "0",
-    "symbol": "৳"
+    "symbol": "৳",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "VND",
     "name": "베트남 동",
     "englishName": "Vietnamese Dong",
     "price": "0",
-    "symbol": "₫"
+    "symbol": "₫",
+    "symbolBeforeAmount": false,
+    "useDecimal": false
   },
   {
     "unit": "BRL",
     "name": "브라질 헤알",
     "englishName": "Brazilian Real",
     "price": "0",
-    "symbol": "R$"
+    "symbol": "R$",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "LKR",
     "name": "스리랑카 루피",
     "englishName": "Sri Lankan Rupee",
     "price": "0",
-    "symbol": "Rs"
+    "symbol": "Rs",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "DZD",
     "name": "알제리 디나르",
     "englishName": "Algerian Dinar",
     "price": "0",
-    "symbol": "DA"
+    "symbol": "DA",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "ETB",
     "name": "에티오피아 비르",
     "englishName": "Ethiopian Birr",
     "price": "0",
-    "symbol": "Br"
+    "symbol": "Br",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "OMR",
     "name": "오만 리알",
     "englishName": "Omani Rial",
     "price": "0",
-    "symbol": "OMR"
+    "symbol": "OMR",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "JOD",
     "name": "요르단 디나르",
     "englishName": "Jordanian Dinar",
     "price": "0",
-    "symbol": "JD"
+    "symbol": "JD",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "UZS",
     "name": "우즈베키스탄 숨",
     "englishName": "Uzbekistani Som",
     "price": "0",
-    "symbol": "UZS"
+    "symbol": "UZS",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "ILS",
     "name": "이스라엘 셰켈",
     "englishName": "Israeli Shekel",
     "price": "0",
-    "symbol": "₪"
+    "symbol": "₪",
+    "symbolBeforeAmount": true,
+    "useDecimal": true
   },
   {
     "unit": "EGP",
     "name": "이집트 파운드",
     "englishName": "Egyptian Pound",
     "price": "0",
-    "symbol": "E£"
+    "symbol": "E£",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "INR",
     "name": "인도 루피",
     "englishName": "Indian Rupee",
     "price": "0",
-    "symbol": "₹"
+    "symbol": "₹",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "CNY",
     "name": "중국 위안",
     "englishName": "Chinese Yuan",
     "price": "0",
-    "symbol": "¥"
+    "symbol": "¥",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "CZK",
     "name": "체코 코루나",
     "englishName": "Czech Koruna",
     "price": "0",
-    "symbol": "Kč"
+    "symbol": "Kč",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "CLP",
     "name": "칠레 페소",
     "englishName": "Chilean Peso",
     "price": "0",
-    "symbol": "CLP$"
+    "symbol": "CLP$",
+    "symbolBeforeAmount": false,
+    "useDecimal": false
   },
   {
     "unit": "KZT",
     "name": "카자흐스탄 텡게",
     "englishName": "Kazakhstani Tenge",
     "price": "0",
-    "symbol": "₸"
+    "symbol": "₸",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "QAR",
     "name": "카타르 리알",
     "englishName": "Qatari Riyal",
     "price": "0",
-    "symbol": "QR"
+    "symbol": "QR",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "KHR",
     "name": "캄보디아 리엘",
     "englishName": "Cambodian Riel",
     "price": "0",
-    "symbol": "៛"
+    "symbol": "៛",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "KES",
     "name": "케냐 실링",
     "englishName": "Kenyan Shilling",
     "price": "0",
-    "symbol": "KSh"
+    "symbol": "KSh",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "COP",
     "name": "콜롬비아 페소",
     "englishName": "Colombian Peso",
     "price": "0.36",
-    "symbol": "COL$"
+    "symbol": "COL$",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "TZS",
     "name": "탄자니아 실링",
     "englishName": "Tanzanian Shilling",
     "price": "0.58",
-    "symbol": "TSh"
+    "symbol": "TSh",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "TRY",
     "name": "튀르키예 리라",
     "englishName": "Turkish Lira",
     "price": "0",
-    "symbol": "₺"
+    "symbol": "₺",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "PKR",
     "name": "파키스탄 루피",
     "englishName": "Pakistani Rupee",
     "price": "0",
-    "symbol": "Rs"
+    "symbol": "Rs",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "PLN",
     "name": "폴란드 즐로티",
     "englishName": "Polish Zloty",
     "price": "0",
-    "symbol": "zł"
+    "symbol": "zł",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "FJD",
     "name": "피지 달러",
     "englishName": "Fijian Dollar",
     "price": "0",
-    "symbol": "FJ$"
+    "symbol": "FJ$",
+    "symbolBeforeAmount": true,
+    "useDecimal": true
   },
   {
     "unit": "PHP",
     "name": "필리핀 페소",
     "englishName": "Philippine Peso",
     "price": "24.50",
-    "symbol": "₱"
+    "symbol": "₱",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   },
   {
     "unit": "HUF",
     "name": "헝가리 포린트",
     "englishName": "Hungarian Forint",
     "price": "0",
-    "symbol": "Ft"
+    "symbol": "Ft",
+    "symbolBeforeAmount": false,
+    "useDecimal": true
   }
 ]
