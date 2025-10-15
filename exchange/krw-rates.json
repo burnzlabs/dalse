@@ -367,14 +367,14 @@
     "unit": "COP",
     "name": "콜롬비아 페소",
     "englishName": "Colombian Peso",
-    "price": "0",
+    "price": "0.36",
     "symbol": "COL$"
   },
   {
     "unit": "TZS",
     "name": "탄자니아 실링",
     "englishName": "Tanzanian Shilling",
-    "price": "0",
+    "price": "0.58",
     "symbol": "TSh"
   },
   {
@@ -409,7 +409,7 @@
     "unit": "PHP",
     "name": "필리핀 페소",
     "englishName": "Philippine Peso",
-    "price": "0",
+    "price": "24.50",
     "symbol": "₱"
   },
   {
