@@ -121,7 +121,7 @@
     "name": "한국 원",
     "englishName": "South Korean Won",
     "price": "1",
-    "symbol": "₩",
+    "symbol": "원",
     "symbolBeforeAmount": false,
     "useDecimal": false
   },
